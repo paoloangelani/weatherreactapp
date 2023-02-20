@@ -1,0 +1,55 @@
+{
+    "coord":
+    {
+        "lon":9.0912,"lat":39.245
+    },
+
+    "weather":
+    [{
+        "id":800,
+        "main":"Clear",
+        "description":"clear sky",
+        "icon":"01d"
+    }],
+
+    "base":"stations",
+
+    "main":
+    {
+        "temp":59.41,
+        "feels_like":57.83,
+        "temp_min":57.87,
+        "temp_max":60.58,
+        "pressure":1032,
+        "humidity":59
+    },
+    "visibility":10000,
+
+    "wind":
+    {
+        "speed":6.91, 
+        "deg":190
+    },
+
+    "clouds":
+    {
+        "all":0
+    },
+
+    "dt":1676642856,
+
+    "sys":
+    {
+        "type":1,
+        "id":6720,
+        "country":"IT",
+        "sunrise":1676614422,
+        "sunset":1676653315
+    },
+
+    "timezone":3600,
+    "id":2525471,
+    "name":"Provincia di Cagliari",
+    "cod":200
+
+}
